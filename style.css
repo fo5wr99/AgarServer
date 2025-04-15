@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #111;
+    color: #eee;
+}
+header {
+    background: #222;
+    padding: 1em;
+    text-align: center;
+}
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+nav a {
+    color: #0af;
+    margin: 0 10px;
+    text-decoration: none;
+}
+.hero {
+    text-align: center;
+    padding: 3em 1em;
+    background: #333;
+}
+.btn {
+    background: #0af;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.download, .about {
+    padding: 2em;
+    background: #1a1a1a;
+}
+footer {
+    background: #000;
+    text-align: center;
+    padding: 1em;
+}
